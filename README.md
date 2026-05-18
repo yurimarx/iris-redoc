@@ -35,9 +35,6 @@ Open the terminal in this directory and run:
 $ docker-compose up -d --build
 ```
 
-or open the folder in VSCode and do the following:
-![rest](https://user-images.githubusercontent.com/2781759/78183327-63569800-7470-11ea-8561-c3b547ce9001.gif)
-
 ## Credits
 
 Redoc: https://redocly.com/
